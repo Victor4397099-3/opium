@@ -40,6 +40,7 @@ else{
             double x2 =(-1*b-Math.sqrt(d))/(2*a);
             System.out.println(x1+":"+ x2);
 
+
         }
     }
 }
